@@ -1,5 +1,3 @@
-//Michael Merabi CS482 Project#1
-//Stable Matching print out
 
 import java.util.*;
 
